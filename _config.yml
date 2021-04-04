@@ -16,14 +16,14 @@ username: WeKnow
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Developers
 # email: Your E-Mail address for the email button.
-email: mikeowino@mail.ru
+email: mike@weknow.studio
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: weknow-io
+github_username: WeKnow-io
 codepen_username: mikeowino
-dev_username: exampleUser
-linkedin_username: exampleUser
+dev_username: mikeowino
+linkedin_username: mikeeowino
 twitter_username: mikeeowino
 
 # ABOUT ME SECTION
@@ -32,9 +32,9 @@ twitter_username: mikeeowino
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-about_me_title: About Me
+about_me_title: About Us
 # about_me_description: This will be displayed under the title.
-about_me_description: If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
+about_me_description: creating modern web experiences for companies and individuals in Kenya.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -50,10 +50,10 @@ skills_title: Skills
 # > setting this to false, will omit the Timeline section
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Education & Experience
+timeline_title: Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+cv_download_link: https://cv.mikeowino.com/
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -86,7 +86,7 @@ contact_description: If you like this theme and want to use it for yourself, che
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: mikeowino/mikeowino.github.io
+repository: WeKnow-io/weknow-io.github.io
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
