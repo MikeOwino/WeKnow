@@ -31,21 +31,3 @@
 
 - name: Rails
   weight: 4
-
-- name: Web3
-  weight: 4
-
-- name: Gatsby
-  weight: 4
-
-- name: Next
-  weight: 4
-
-- name: Bootstrap
-  weight: 4
-
-  - name: Flask
-  weight: 4
-
-- name: Postman
-  weight: 4
