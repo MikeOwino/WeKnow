@@ -34,3 +34,15 @@
 
 - name: Postman
   weight: 4
+
+- name: Heroku
+  weight: 4
+
+- name: Digital Ocean
+  weight: 4
+
+- name: Replit
+  weight: 4
+
+- name: Redis
+  weight: 4
