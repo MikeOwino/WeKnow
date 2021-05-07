@@ -42,7 +42,7 @@ about_me_description: <a class="highlight-link" href="https://flutterwave.com/pa
 # > setting this to false, will omit the Skills section
 show_skills_card: true
 # about_me_title: The will be displayed as the title in the Skills section
-skills_title: Skills
+skills_title: Technologies and Skills
 
 # TIMELINE SECTION
 # show_timeline_card:
