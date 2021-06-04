@@ -108,3 +108,31 @@ Angular
 
 ### DevTools
 
+Postman
+Java
+Ruby
+AngularJS
+Flutter
+Dart
+Bash
+VS Code
+React
+Travis CI
+Spring
+npm
+Git
+Jenkins
+JavaScript
+Node
+gulp
+Scrum
+CSS3
+HTML5
+Python
+Django
+TypeScript
+C++
+Chrome DevTools
+Rails
+SASS
+Kotlin
