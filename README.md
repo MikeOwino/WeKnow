@@ -1,4 +1,4 @@
-### https://app.weknow.studio/
+### https://app.weknow.studio
 
 
 ## WeKnow Creators
