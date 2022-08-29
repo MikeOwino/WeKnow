@@ -1,6 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3a7769cc-7c03-4812-921c-30b87cc46f2c/deploy-status)](https://app.netlify.com/sites/tender-ritchie-efe93d/deploys)
 ### https://app.weknow.studio
-
 
 ## WeKnow Creators
 ### What We Do
