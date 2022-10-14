@@ -1,5 +1,3 @@
-### https://app.weknow.studio
-
 ## WeKnow Creators
 ### What We Do
 - Web-hosting Providing (Web hosting service, email domain setup, Domain name registration) FIRST YEAR ONLY.
